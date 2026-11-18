@@ -1,4 +1,4 @@
-# Modelagem Dimensional (Star Schema)Esquema estrela pro projeto DIO
+# Modelagem Dimensional (Star Schema) pro projeto DIO
 
 Projeto desenvolvido para o desafio **Criando um Star Schema para Cenários de Universidade com Power BI** do bootcamp de Engenharia de Dados (DIO & NTT Data).
 
